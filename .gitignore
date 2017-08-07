@@ -1,0 +1,13 @@
+# Logs
+logs
+*.log
+npm-debug.log
+
+# Dependency Directories
+node_modules/
+
+# React Native & Expo
+.expo/
+
+# Other
+.DS_Store
